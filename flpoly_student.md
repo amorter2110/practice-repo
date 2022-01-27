@@ -1,27 +1,27 @@
-## First Name Last Name
+## Allen MOrter
 
-### Term Year 
+### SP 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Calc 2
 
-- Course 2
+- Cop2271
 
-- Course 3
+- physics 1
 
-- Course 4
+- Intro to data science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- cooking
 
-- Thing 2
+- music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Science <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/27
