@@ -1,4 +1,4 @@
-## Allen MOrter
+## Allen Morter
 
 ### SP 2022
 
@@ -6,22 +6,22 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Calc 2
 
-- Cop2271
+- COP2271
 
-- physics 1
+- Physics 1
 
-- Intro to data science
+- Intro to Data Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- cooking
+- Cooking
 
-- music
+- Music
 
 - Science <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: 2022/01/27
+> Last modified: 2022/01/28
